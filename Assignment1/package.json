@@ -1,0 +1,17 @@
+{
+    "name": "process_data",
+    "version": "1.0.0",
+    "description": "",
+    "main": "translink-parser.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "csv-parse": "^5.4.0",
+        "node-fetch": "^3.3.2",
+        "prompt-sync": "^4.2.0"
+    }
+}
